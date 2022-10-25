@@ -8,12 +8,17 @@ contributor:
     deathdate: 2004
     gutenberg_agent_id: '51743'
     url: http://www.gutenberg.org/2009/agents/51743
+covers:
+- cover_type: archival
+  image_path: 69139-h/images/cover.jpg
 creator:
   author:
     agent_name: Pearson, Martin
     gutenberg_agent_id: '55127'
     url: http://www.gutenberg.org/2009/agents/55127
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69139#Nothing
 gutenberg_issued: '2022-10-12'
 identifiers:
   gutenberg: '69139'
